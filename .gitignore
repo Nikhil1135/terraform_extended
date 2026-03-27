@@ -1,0 +1,3 @@
+# Ignore AWS CLI installer and local AWS folder
+aws/
+awscliv2.zip
